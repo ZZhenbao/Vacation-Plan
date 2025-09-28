@@ -1,0 +1,5 @@
+{
+  "name": "Vacation Planner AI",
+  "description": "An AI-powered application to generate personalized vacation itineraries and stunning destination visuals. Simply enter your destination, trip duration, and interests, and let the AI create a detailed, day-by-day plan for your next adventure.",
+  "requestFramePermissions": []
+}
